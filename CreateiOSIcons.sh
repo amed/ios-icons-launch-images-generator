@@ -11,7 +11,7 @@ sips -Z 29 Images.xcassets/AppIcon.appiconset/Icon58.png --out Images.xcassets/A
 # iPhone
 # Spotlight - iOS 7-8
 # 40pt 2x,3x
-# sips -Z 120 Icon-Input.png --out Images.xcassets/AppIcon.appiconset/Icon120.png
+sips -Z 120 Icon-Input.png --out Images.xcassets/AppIcon.appiconset/Icon120.png
 sips -Z 80 Icon-Input.png --out Images.xcassets/AppIcon.appiconset/Icon80.png
 
 # iPhone
@@ -24,7 +24,7 @@ sips -Z 57 Images.xcassets/AppIcon.appiconset/Icon114.png --out Images.xcassets/
 # App - iOS 7,8
 # 60pt 2x,3x
 sips -Z 180 Icon-Input.png --out Images.xcassets/AppIcon.appiconset/Icon180.png
-#sips -Z 120 Icon-Input.png --out Images.xcassets/AppIcon.appiconset/Icon120.png # duplicate
+sips -Z 120 Icon-Input.png --out Images.xcassets/AppIcon.appiconset/Icon120.png # duplicate
 
 
 # iPad Pro
